@@ -1,0 +1,7 @@
+ |Cliente: PRISCILA DOS SANTOS FERREIRA |Data: 2015-10-13 |Origem: Av.Arnaldo Bohrer 538 |Destino: Rua dos Andradas 1530, Porto Alegre, RS |Tempo: 21 minutoutos |Valor: 38.25
+ |Cliente: Não Informado |Data: Não Informado |Origem: Viamão |Destino: Florianopolis |Tempo: 4 horas 55 minutoutos |Valor: 2011.5
+ |Cliente: Carolina Maria |Data: 2015-10-16 |Origem: Cachoeirinha |Destino: Cavalhada, Porto Alegre |Tempo: 37 minutoutos |Valor: 132.75
+ |Cliente: Carolina Maria |Data: 2015-10-16 |Origem: Cachoeirinha |Destino: Cavalhada, Porto Alegre |Tempo: 37 minutoutos |Valor: 132.75
+ |Cliente: Pedro Henrique Busato |Data: 2015-10-17 |Origem: Av. Cavalhada 222, Porto Alegre |Destino: Av. Teresópolis 586, Porto Alegre |Tempo: 14 utos |Valor: 31.05
+ |Cliente: Pedro Henrique Busato |Data: 2015-10-17 |Origem: Av. Cavalhada 222, Porto Alegre |Destino: Av. Teresópolis 586, Porto Alegre |Tempo: 14 utos |Valor: 31.05
+ |Cliente: Polônia Camile |Data: 2015-10-21 |Origem: Joinvile, Santa Catarina |Destino: Tubarão, Santa Catarina |Tempo: 3 horas 22 minutos |Valor: 1336.5
